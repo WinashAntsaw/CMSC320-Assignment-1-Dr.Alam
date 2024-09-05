@@ -12,5 +12,5 @@ what aspects of our product are most utlized, what products are used less, maybe
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: [Your answer here]
+Answer: Both seek to combine different changes, but merging preserves history as is, creating a non linear history, but rebasing rewrites the history, maintaining a linear history.
 

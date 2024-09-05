@@ -1,0 +1,7 @@
+Q1: Why might be consider using git?
+
+Answer: git is useful for source control, allowing multiple people to work on codebases, and also allows us to
+check version histories, which is nice when we may need to revert to old versions. It's also nice for storing
+repositories for us, which is sometimes nicer than storing it on a local machine, where we can only access it
+on that specific local machine
+
